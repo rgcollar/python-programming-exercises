@@ -1,3 +1,7 @@
+# 1) Find if a number is a power of 2:
+# Given N integers, for each integer print POWER if it's a power of 2. 
+# Otherwise just print the number.
+
 def is_power_of_2(n):
     if n == 1:
         return True
