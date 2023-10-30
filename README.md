@@ -1,5 +1,4 @@
-# python-programming-exercises
-Solution of programming exercises in Python
+## Programming exercises in Python
 
 ## 1) Find if a number is a power of 2
 [Find solutions here:](/power-two)
